@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jacob\\source\\repos\\hw1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4506D20B-2F83-4BD2-9C57-2DF1EFDA0CB7}|hw1\\hw1.vcxproj|C:\\Users\\Jacob\\source\\repos\\hw1\\hw1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4506D20B-2F83-4BD2-9C57-2DF1EFDA0CB7}|hw1\\hw1.vcxproj|solutionrelative:hw1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4506D20B-2F83-4BD2-9C57-2DF1EFDA0CB7}|hw1\\hw1.vcxproj|C:\\Users\\Jacob\\source\\repos\\hw1\\hw1\\ShaderProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4506D20B-2F83-4BD2-9C57-2DF1EFDA0CB7}|hw1\\hw1.vcxproj|solutionrelative:hw1\\ShaderProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShaderProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\hw1\\hw1\\ShaderProgram.cpp",
+              "RelativeDocumentMoniker": "hw1\\ShaderProgram.cpp",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\hw1\\hw1\\ShaderProgram.cpp",
+              "RelativeToolTip": "hw1\\ShaderProgram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T21:00:47.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\hw1\\hw1\\main.cpp",
+              "RelativeDocumentMoniker": "hw1\\main.cpp",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\hw1\\hw1\\main.cpp",
+              "RelativeToolTip": "hw1\\main.cpp",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAuwKEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T21:00:20.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
