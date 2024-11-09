@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\Jacob\source\repos\hw2\hw2\main.cpp(24,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
-C:\Users\Jacob\source\repos\hw2\hw2\main.cpp(25,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
-C:\Users\Jacob\source\repos\hw2\hw2\main.cpp(29,9): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\Jacob\source\repos\hw2\hw2\main.cpp(133,23): warning C4018: '<': signed/unsigned mismatch
-  hw2.vcxproj -> C:\Users\Jacob\source\repos\hw2\Debug\hw2.exe
